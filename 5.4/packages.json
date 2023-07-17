@@ -23,6 +23,28 @@
                 "website": "https://github.com/fieldOfView/Cura-CustomJobPrefix"
             }
         },
+        "KlipperSettingsPlugin": {
+            "filename": "/home/wayne/.cache/cura/5.4/cura_packages/KlipperSettingsPlugin.curapackage",
+            "package_info": {
+                "author": {
+                    "author_id": "JJGraphiX",
+                    "display_name": "JJFX",
+                    "email": "jjfx.contact@gmail.com",
+                    "website": "https://ultimaker.com"
+                },
+                "description": "Adds a new Klipper Settings category with a number of Klipper-specific settings and features to the Cura settings list. All features are designed to work without the need for additional Klipper translation macros. Multiple extruders are supported.\n\nCompatible only with Klipper firmware.",
+                "display_name": "Klipper Settings",
+                "is_active": true,
+                "is_bundled": false,
+                "is_installed": true,
+                "package_id": "KlipperSettingsPlugin",
+                "package_type": "plugin",
+                "package_version": "1.0.1",
+                "sdk_version": 8,
+                "sdk_version_semver": "8.0.0",
+                "website": "https://github.com/jjgraphix/KlipperSettingsPlugin"
+            }
+        },
         "MoonrakerConnection": {
             "filename": "/home/wayne/.cache/cura/5.4/cura_packages/MoonrakerConnection.curapackage",
             "package_info": {
